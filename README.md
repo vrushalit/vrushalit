@@ -12,12 +12,16 @@ I am learning Web Development and have used HTML,CSS & JAVASCRIPT. Besides that 
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [3-coloumn-preview-project](https://https://vrushalit.github.io/3-column-preview-component/)     | In this repository I have a project implementation of Html,css (REsponsive Web Design)
+
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
 
 
 <a  href="https://www.linkedin.com/in/vrushali-terekar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vrushaliterekar22@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/rohan.kulkarni.2520/" target="_blank">
+<a href="mailto:vrushaliterekar22@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
 
