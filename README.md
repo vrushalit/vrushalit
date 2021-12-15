@@ -14,7 +14,7 @@ I am learning Web Development and have used HTML,CSS & JAVASCRIPT. Besides that 
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [3-coloumn-preview-project](/https://vrushalit.github.io/3-column-preview-component//)     | In this repository I have a project implementation of HTML,CSS (Responsive Web Design)
+| [3-coloumn-preview-project](https://vrushalit.github.io/3-column-preview-component/)     | In this repository I have a project implementation of HTML,CSS (Responsive Web Design)
 
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
