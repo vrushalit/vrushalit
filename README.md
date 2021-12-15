@@ -19,3 +19,11 @@ I am learning Web Development and have used HTML,CSS & JAVASCRIPT. Besides that 
 <a  href="https://www.linkedin.com/in/vrushali-terekar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vrushaliterekar22@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/rohan.kulkarni.2520/" target="_blank">
 </div>
+
+
+<h1 align="center">Github Stats</h1>
+ <div align="center" >
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=vrushalit&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalit&layout=compact">
+</div> 
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kulkarni-25&)"><img src="https://activity-graph.herokuapp.com/graph?username=vrushalit&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
