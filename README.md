@@ -1,6 +1,6 @@
 I am <b>Vrushali Terekar</b> pursuing <b>Computer Engineering</b> from Sinhgad Institute of Technology & Science Pune. I'm currently doing <b>Web Development</b>  but also intrested in and exploring other technology and frameworks.
 
-<h1 align="center">Tech-Stach<h1>
+<h1 align="center">Tech-Stach</h1>
 
 I am learning Web Development and have used HTML,CSS & JAVASCRIPT. Besides that I am also practising Data Structures and Algorithm in C++ and also have basics of Python and C. I can efficiently use VSCODE to make contibutions on Github.
 
