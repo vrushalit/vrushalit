@@ -1,4 +1,4 @@
-I am <b>Vrushali Terekar</b> pursuing <b>Computer Engineering</b> from Sinhgad Institute of Technology & Science Pune. I'm currently doing <b>Web Development</b>  but also intrested in and exploring other technology and frameworks.
+I am <b>Vrushali Terekar</b> pursuing <b>Computer Engineering</b> from Sinhgad Institute of Technology & Science Pune. I'm currently doing <b>Full Stack Development</b>  but am also interested in and exploring other technology and frameworks.
 
 <h1 align="center">Tech-Stack</h1>
 
