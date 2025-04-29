@@ -2,7 +2,12 @@ I am <b>Vrushali Terekar</b> pursuing <b>Computer Engineering</b> from Sinhgad I
 
 <h1 align="center">Tech-Stack</h1>
 
-I am learning Web Development and have used HTML,CSS & JAVASCRIPT. Besides that I am also practising Data Structures and Algorithm in C++ and also have basics of Python and C. I can efficiently use VSCODE to make contibutions on Github.
+As a Developer at a product based startup I have a strong focus on Java, Spring Boot, and Angular, I specialize in building robust, high-performance web and enterprise applications. 
+With hands-on experience in Java 8+, Spring Framework, I have successfully optimized backend systems and developed secure, scalable solutions using JWT, and RESTful services.
+I have a deep understanding of OOP concepts and design patterns, and am experienced in working with both relational (BigQuery) and non-relational (Datastore) databases. 
+I have developed and deployed microservices using Spring Boot framework, while leveraging GCP tools like App Engine and Cloud Run to optimize performance.
+Beyond technical expertise, I excel in communication and collaboration. I actively engage with cross-functional teams to understand complex requirements and ensure the delivery of effective solutions. 
+My ability to articulate technical concepts clearly and work closely with stakeholders has been key to successful project outcomes.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
